@@ -1,0 +1,7 @@
+Study Blockchain basic by own
+
+Source : https://github.com/dannygim/study-blockchain-basic-by-own
+
+USAGE:
+    help        Prints this message
+    exit        Exit the app
