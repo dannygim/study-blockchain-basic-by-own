@@ -3,6 +3,14 @@
 ## USAGE
 
 ```
+01. DNS lookup demo
+$ deno run --unstable --allow-net ./01_DNS_lookup/main.ts
+
+02. get IP address from STUN server demo
+$ deno run --unstable --allow-net ./02_Get_IP_from_STUN_server/main.ts 
+```
+
+```
 deno run --allow-net --allow-read --unstable main.ts 
 ```
 
